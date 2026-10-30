@@ -5,7 +5,7 @@
 
 # ROA: Regain Ownership for Anything
 
-### One MCP for reverse engineering across binaries, applications, and runtime behavior.
+### One MCP for regaining ownership for things you own by investigating across binaries, applications, and runtime behavior.
 
 **See a feature you like. Understand how it works, down to the binary level.**
 
